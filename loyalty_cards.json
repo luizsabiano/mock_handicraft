@@ -1,1 +1,27 @@
 
+[
+  {
+    "client": {
+      "name": "Luiz Sabiano",
+      "password": "123456",
+      "date": {
+        "year": 2022,
+        "month": "janeiro",
+        "number_of_card": 2,
+        "card1": {
+          "adhesive1": {
+            "theme": "Princesa Sofia",
+            "birthday_name": "Julia A. Medeiros",
+            "image": "TODO"
+          },
+          "adhesive2": {
+            "theme": "Amigo da Onça",
+            "birthday_name": "Falso Amigo",
+            "image": "TODO"
+          },
+          ...
+        }
+      }
+    }
+  }  
+]
