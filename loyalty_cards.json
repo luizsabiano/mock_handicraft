@@ -12,7 +12,7 @@
 					"delivered": false,
 					"adhesive": [{
 							"id": 1,
-							"theme": "Princesa Sofia",
+							"theme": "Princesa Sofia II",
 							"birthday_name": "Julia A. Medeiros",
 							"topper_delivered_at": "2022-01-01",
 							"image": "TODO"
@@ -45,7 +45,7 @@
 					"delivered": false,
 					"adhesive": [{
 							"id": 1,
-							"theme": "Moana",
+							"theme": "Moana II",
 							"birthday_name": "Julia A. Medeiros",
 							"topper_delivered_at": "2022-05-01",
 							"image": "TODO"
